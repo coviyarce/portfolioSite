@@ -1,6 +1,6 @@
 # Portfolio Site
 
-<img src="media/img/logo.png" width="800px"></img>
+<img src="media/img/logo.svg" width="800px"></img>
 
 # PortfolioSite
 
