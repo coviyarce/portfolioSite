@@ -19,5 +19,5 @@ Some of the updates according to every change I, <a href ="https://linkedin.com/
 Stuff i need to do:
 
     - I need to update the logo for a better resolution
-    - Also need to encrypt the pdf with a password in order not to break the NDA's
+    > Also need to encrypt the pdf with a password in order not to break the NDA's
     - Continue with the rest of the changes, long way to go.
